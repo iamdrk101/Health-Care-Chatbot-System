@@ -5,9 +5,9 @@ Health Care Chat-Bot is used in Healthcare Domain Chatbot to simulate the predic
 
 Chat bots are used in applications such as:
 
-1. E-commerce customer service,
-2. Call centres, 
-3. Internet gaming. 
+1. E-commerce customer service
+2. Call centres
+3. Internet gaming 
 
 Chatbots are programs built to automatically engage with received messages. Chatbots can be programmed to respond the same way each time, to respond differently to messages containing certain keywords and even to use machine learning to adapt their responses to fit the situation. 
 A developing number of hospitals, nursing homes, and even private centres, presently utilize online Chatbots for human services on their sites. These bots connect with potential patients visiting the site, helping them discover specialists, booking their appointments, and getting them access to the correct treatment. 
